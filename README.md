@@ -1,4 +1,4 @@
-# Дипломный проект команды devsTeam.getName()
+# Проект команды devsTeam.getName()
 
 <div>
 
